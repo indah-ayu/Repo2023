@@ -8,7 +8,7 @@ Scanner sc = new Scanner(System.in);
 System.out.println("---------Menu---------");
 System.out.println("1. Play");
 System.out.println("2. Instructions");
-System.out.println("3. Exit");
+System.out.println("3. Quit");
 System.out.print("\nChoose the option: ");
 option = sc.nextInt();
 }
