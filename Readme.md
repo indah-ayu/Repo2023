@@ -1,1 +1,1 @@
-this is a firt read me file
+this is a first read me file
