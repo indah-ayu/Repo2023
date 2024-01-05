@@ -1,5 +1,5 @@
 package game;
-import java.util.Scanner
+import java.util.Scanner;
 public class Hangman {
 public void showMenu()
 {
